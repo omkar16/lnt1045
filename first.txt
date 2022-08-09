@@ -1,1 +1,4 @@
 Hello notepad..! You are awesome..!
+Today is Tuesday
+Month is August
+Year is 2022
